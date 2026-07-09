@@ -3,6 +3,7 @@
 =======
 # KinaNiaBudze
 
+<<<<<<< HEAD
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.6.
 
 ## Development server
@@ -61,3 +62,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 >>>>>>> 7800ae8 (initial commit)
+=======
+pet project for my girlfriend blog
+>>>>>>> 0a8c9e5 (redact read me)
