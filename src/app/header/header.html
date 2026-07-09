@@ -1,3 +1,9 @@
-<div>asda
-    
-</div> 
+<div class="header">
+    <p class="header_logo">Kina nia budze</p>
+
+    <div class="menu">
+        @for (menuElement of menuList(); track menuElement.id) {
+            <li class="menu_element">{{ menuElement.label }}</li>
+        }
+    </div>
+</div>
